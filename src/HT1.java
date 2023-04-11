@@ -6,7 +6,7 @@ public class HT1 {
 3
 2
 1
-Поехали!!!
+Поехали!!! 11
 */
         System.out.println(3);
         System.out.println(2);
